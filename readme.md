@@ -1,6 +1,5 @@
 # My Temp Cleaner 
 
-#
 
 Version: 1.2
 
