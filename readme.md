@@ -1,1 +1,9 @@
-please run run_tempcleaner_as_admin.ps1 or run Temp Cleaner v1.bat as admin!
+# My Temp Cleaner 
+
+#
+
+Version: 1.2
+
+#
+
+It deletes Following Cache/Temp Files:
