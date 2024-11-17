@@ -1,0 +1,1 @@
+please run run_tempcleaner_as_admin.ps1 or run Temp Cleaner v1.bat as admin!
