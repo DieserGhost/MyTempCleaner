@@ -101,7 +101,7 @@ It deletes Following Cache/Temp Files:
    - simply run "run_tempcleaner_as_admin.ps1" with a right click and choose execute.
   
 2. option (hard):
-   open a cmd with Admin and type **cd "your folder path"** (u get them when you click on the bar from your folder.) after that you type "Temp Cleaner v1.bat" or when the file name was changed the new file name.
+   - open a cmd with Admin and type **cd "your folder path"** (u get them when you click on the bar from your folder.) after that you type "Temp Cleaner v1.bat" or when the file name was changed the new file name.
 
 #
 
